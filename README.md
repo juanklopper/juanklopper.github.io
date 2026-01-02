@@ -30,7 +30,7 @@ Python R Julia Mathematica MATLAB SQL
 | PUBH 6951 | R | Postgraduate |
 | PUBH 6899 | Large Language Modles for Research | Postgraduate |
 | PUBH 6899 | SQL | Postgraduate |
-| PUBH 6865 | Categorical Data Analysis | Posgraduate |
+| PUBH 6865 | Categorical Data Analysis | Postgraduate |
 | PUBH 1142 | Introduction to Data Science | Undergraduate|
 | PUBH 2140 | Research Methods | Undergraduate |
 | PUBH 2142 | Biostatistics | Undergraduate |
